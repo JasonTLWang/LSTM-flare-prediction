@@ -1,0 +1,6 @@
+avg recall: 0.773 (0.027)
+avg precision: 0.541 (0.030)
+avg acc: 0.826 (0.015)
+avg bacc: 0.806 (0.004)
+avg hss: 0.526 (0.021)
+avg tss: 0.612 (0.009)
