@@ -23,4 +23,7 @@ To our knowledge, this is the first time that LSTMs have been used for solar fla
 
 Reference: Predicting Solar Flares Using a Long Short-term Memory Network. 
 Liu, H., Liu, C., Wang, J. T. L., Wang, H., ApJ., 877:121, 2019.
+
 https://iopscience.iop.org/article/10.3847/1538-4357/ab1b3c
+
+https://arxiv.org/abs/1905.07095
