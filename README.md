@@ -1,2 +1,1 @@
-# LSTM-flare-prediction
-LSTM-flare-prediction
+Predicting Solar Flares Using a Long Short-term Memory Network
