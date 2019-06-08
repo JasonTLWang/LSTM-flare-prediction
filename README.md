@@ -21,7 +21,9 @@ and magnetic parameters can achieve better performance than using all the 40 fea
 (ii) our LSTM network outperforms related machine learning methods in predicting the labels of the data samples. 
 To our knowledge, this is the first time that LSTMs have been used for solar flare prediction.
 
-Reference: Predicting Solar Flares Using a Long Short-term Memory Network. 
+Reference: 
+
+Predicting Solar Flares Using a Long Short-term Memory Network. 
 Liu, H., Liu, C., Wang, J. T. L., Wang, H., ApJ., 877:121, 2019.
 
 https://iopscience.iop.org/article/10.3847/1538-4357/ab1b3c
