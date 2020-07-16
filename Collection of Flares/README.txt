@@ -1,0 +1,1 @@
+Download the collection of 4,203 B-class ﬂares, 6,768 C-class ﬂares, 704 M-class ﬂares, and 49 X-class ﬂares used to build the data samples studied in the paper.
